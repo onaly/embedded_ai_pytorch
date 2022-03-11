@@ -2,4 +2,4 @@
 
 This is my implementation of a lab session at École Centrale de Lyon.
 
-The report (written in French) can be found in the files ("CR TD2 ONALY - PARODI.pdf").
+The subject and the report (written in French) can be found in the files.
